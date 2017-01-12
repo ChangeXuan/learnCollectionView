@@ -1,2 +1,2 @@
 # learnCollectionView
-
+collectionView是一个十分炫酷的东西，特别是它的自定义
